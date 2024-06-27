@@ -1,0 +1,33 @@
+Sorting Algorithms
+- Bubble
+- merge
+- insertion
+- selection
+- quick
+- heap
+
+
+
+Array
+    -
+STACK
+    -push, pop, peek
+
+Queue
+    -
+
+linkedList
+    -
+
+Tree
+    - Binary Tree
+          -
+
+Graph
+    - 
+
+Hash
+    -
+
+Heap
+    -  	
