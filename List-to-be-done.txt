@@ -1,3 +1,26 @@
+## The main Aim is to collect all Algorithms
+## First Basics
+## After that others, It will be greate to get some Advanced/Different Data Structure and Algorithms
+
+
+## Any Contributer can contribute if they think that a particular Algorithm is missing or should be included.
+## For that plz create an issue first and then create a seperate Branch and atleast add a file explaining the Algorithm.
+
+## Any Different Algorithm like Some Game solving algorithm are most welcom. For Example "Maze Solving Aldorithm". 
+
+
+Problem loving Methods
+- Brute Force
+- Greedy Algorithms
+- Divide and Conquer
+- Dynamic Programming
+- Backtracking
+- Sliding Window Technique
+- Twopointer Technique
+- Recursion
+- Randomised Algorithms
+
+
 Sorting Algorithms
 - Bubble
 - merge
@@ -5,29 +28,62 @@ Sorting Algorithms
 - selection
 - quick
 - heap
-
-
+- Redix
 
 Array
-    -
+    - 
+
 STACK
     -push, pop, peek
 
 Queue
-    -
+    - Priority
+    - Circular
+    - Enqueue
+    - Dequeue
+    - Peek (Get Top Element)
 
 linkedList
-    -
+    - Singly
+    - Doubly
+    - Circular
 
 Tree
-    - Binary Tree
-          -
+- Tree-Traversal
+- In-Pre_Post Traversal
+- Breath First Search
+- Deapth First Search
+
+- Binary Tree
+- Binary Search Tree
+- AVL Tree
+- B-Trees
+- Segment Trees
+- fenwick Tree
+- Disjoint Set(Union find)
+- Suffix Trees and Array
 
 Graph
-    - 
+Search
+- Breath First Search
+- Deapth First Search
+
+Shortest Path
+- Dijikstra Algorithm
+- Bellman Ford
+
+Minimum Spanning Tree
+- Prim's Algorithm
+- Krushal's Algorithm 
 
 Hash
-    -
+
 
 Heap
-    -  	
+sorting
+- Heap Sort
+
+Advanced Data Structure
+- B/B+ Tree
+- Skip LinkedList
+- Indexed Sequential Access Method(ISAM)
