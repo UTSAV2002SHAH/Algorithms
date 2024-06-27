@@ -16,7 +16,7 @@ Problem loving Methods
 - Dynamic Programming
 - Backtracking
 - Sliding Window Technique
-- Twopointer Technique
+- Two pointer Technique
 - Recursion
 - Randomised Algorithms
 
